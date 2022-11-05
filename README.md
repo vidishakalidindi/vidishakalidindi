@@ -7,13 +7,12 @@ Currently, I am pursuing the Master of Science in Business Analytics at Universi
 I am passionate about problems that can be solved through data, and I get excited by all such unexplored possibilities in our tech-driven world. Throughout my four years of work experience, I have been fascinated by how much a group of people can achieve through a structured project and the first questions I ask when I start working on a new business problem are "Why is this problem important?", and "What's the best way we can tackle this as a group?". I am always looking for opportunities where I can enhance my Data Analytics/Data Science Skills.
 
 
-📫 How to reach me:
-(([link to image on GH](https://th.bing.com/th/id/R.229079c8f5240851cece598cf8eee770?rik=TvMiz3mBQ9DAlQ&riu=http%3a%2f%2fwww.techerator.com%2fwp-content%2fuploads%2f2013%2f06%2fGmail-Logo.png&ehk=whqP3PDQYFbziZN8i5yRAa9t7YY2hWS0gvPmKvxRoug%3d&risl=&pid=ImgRaw&r=0)){kalidindividisha@gmail.com}
-
-[<img src="[img/myImage.png](https://th.bing.com/th/id/R.229079c8f5240851cece598cf8eee770?rik=TvMiz3mBQ9DAlQ&riu=http%3a%2f%2fwww.techerator.com%2fwp-content%2fuploads%2f2013%2f06%2fGmail-Logo.png&ehk=whqP3PDQYFbziZN8i5yRAa9t7YY2hWS0gvPmKvxRoug%3d&risl=&pid=ImgRaw&r=0)">](kalidindividisha@gmail.com)
-
-👨🏻‍💻 Languages and Tools: 
-
+Languaages & Tools:
+ R, Python, SQL, Power BI, Tableau, Advanced Excel, Hive, Hadoop
+ 
+ AI/ML Skills : 
+ Classification, Regression, Clustering, Decision Tree, Random Forest, KNN, Naive Bayes, Hypothesis Testing, 
+Exploratory Data Analysis, Time series modeling, Predictive and Prescriptive Data analysis, A/B testing
 
 <!--
 **vidishakalidindi/vidishakalidindi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
