@@ -7,7 +7,7 @@ Currently, I am pursuing the Master of Science in Business Analytics at Universi
 I am passionate about problems that can be solved through data, and I get excited by all such unexplored possibilities in our tech-driven world. Throughout my four years of work experience, I have been fascinated by how much a group of people can achieve through a structured project and the first questions I ask when I start working on a new business problem are "Why is this problem important?", and "What's the best way we can tackle this as a group?". I am always looking for opportunities where I can enhance my Data Analytics/Data Science Skills.
 
 
-Languaages & Tools:
+Languages & Tools:
  R, Python, SQL, Power BI, Tableau, Advanced Excel, Hive, Hadoop
  
  AI/ML Skills : 
