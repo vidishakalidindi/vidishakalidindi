@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-![maxresdefault](https://user-images.githubusercontent.com/94168098/200147864-407b22d3-b4c2-491d-9b47-f259c99b7382.jpg)
+![maxresdefault](https://user-images.githubusercontent.com/94168098/200147864-407b22d3-b4c2-491d-9b47-f259c99b7382.jpg)(https://www.linkedin.com/in/vidisha-kalidindi)
 
 
 I'm an experienced risk analytics professional with a demonstrated history of working in the credit and fraud risk industry. I was involved in the deployment of predictive risk models for small and medium enterprises to help provide data driven decision support and strategy support to credit policy, collections, and product teams. I am skilled in analyzing large datasets in Python, R, SQL, SAS, and Excel, generating recommendations, and presenting them to the stakeholders through visuals in Microsoft PowerPoint and Tableau.
