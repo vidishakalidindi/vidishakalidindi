@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋 
+
+![maxresdefault](https://user-images.githubusercontent.com/94168098/200147864-407b22d3-b4c2-491d-9b47-f259c99b7382.jpg)
+
 
 I'm an experienced risk analytics professional with a demonstrated history of working in the credit and fraud risk industry. I was involved in the deployment of predictive risk models for small and medium enterprises to help provide data driven decision support and strategy support to credit policy, collections, and product teams. I am skilled in analyzing large datasets in Python, R, SQL, SAS, and Excel, generating recommendations, and presenting them to the stakeholders through visuals in Microsoft PowerPoint and Tableau.
 
@@ -20,7 +23,8 @@ Exploratory Data Analysis, Time series modeling, Predictive and Prescriptive Dat
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on ...![maxresdefault](https://user-images.githubusercontent.com/94168098/200147879-863c7e5f-cc62-426c-b3a8-c20eaea528a1.jpg)
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
